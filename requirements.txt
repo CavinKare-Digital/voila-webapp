@@ -129,7 +129,6 @@ azureml-opendatasets==1.15.0
 azureml-pipeline==1.15.0
 azureml-pipeline-core==1.15.0
 azureml-pipeline-steps==1.15.0
-azureml-samples @ file:///mnt/jupyter-azsamples
 azureml-sdk==1.15.0
 azureml-telemetry==1.15.0
 azureml-tensorboard==1.15.0

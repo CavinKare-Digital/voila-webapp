@@ -262,7 +262,6 @@ msrest==0.6.19
 msrestazure==0.6.4
 multidict==4.7.6
 murmurhash==1.0.2
-nb-conda==2.2.1
 ndg-httpsclient==0.5.1
 networkx==2.5
 nimbusml==1.7.1
